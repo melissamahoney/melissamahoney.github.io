@@ -48,11 +48,11 @@ hr.star-light:after {
     color: #fff;
 }
 hr.star-primary {
-    border-color: #112233;
+    border-color: #2C3E50;
 }
 hr.star-primary:after {
-    background-color: #fff;
-    color: #112233;
+    background-color: #eae3df;
+    color: #2C3E50;
 }
 .img-centered {
     margin: 0 auto;
@@ -149,6 +149,9 @@ section.first {
     padding-top: 75px;
 }
 }
+#portfolio {
+    background: #eae3df;
+}
 #portfolio .portfolio-item {
     margin: 0 0 15px;
     right: 0;
@@ -193,9 +196,6 @@ section.first {
 #portfolio .portfolio-item {
     margin: 0 0 30px;
 }
-}
-#skills {
-    background: #aabbcc;
 }
 #skills .portfolio-item {
     margin: 0 0 15px;
